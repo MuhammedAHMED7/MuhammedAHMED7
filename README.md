@@ -27,11 +27,7 @@ class MuhammedAhmed {
         "Notion", "GitHub", "Notebook LM"
     };
 }
-
-```markdown
----
-
-## 🛠 Tech Toolbox
+## 💼 Tech Toolbox
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,idea,github,vscode,notion,instagram" />

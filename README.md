@@ -13,7 +13,7 @@
 
 ## 😁 About Me
 
-```java
+
 class MuhammedAhmed {
     String role = "Software Engineering Student";
     String university = "Firat University";

@@ -27,20 +27,15 @@ class MuhammedAhmed {
         "Notion", "GitHub", "Notebook LM"
     };
 }
----
-
-## 🛠️ Tech Toolbox
-
+🛠️ Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,notion" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,notion" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halithacbekkur&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halithacbekkur&theme=dark" alt="Streak Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuhammedAHMED7%26show_icons%3Dtrue%26theme%3Ddark" alt="GitHub Stats" />
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMuhammedAHMED7%26theme%3Ddark" alt="Streak Stats" />
 </p>

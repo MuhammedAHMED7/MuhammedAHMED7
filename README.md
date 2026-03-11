@@ -3,10 +3,9 @@
 ### Java Learner 🎯 | Software Engineering Student 💻 | Firat University 🎓
 
 <p align="left">
-  <a href="[https://github.com/MuhammedAHMED7](https://github.com/MuhammedAHMED7)"><img src="[https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white)" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" /></a>
-  <a href="#"><img src="[https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" /></a>
+  <a href="https://github.com/MuhammedAHMED7"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="SENIN_LINKEDIN_LINKIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="SENIN_INSTAGRAM_LINKIN"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---

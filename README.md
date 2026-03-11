@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 😁 About Me
 
 ```java
 class MuhammedAhmed {
@@ -27,15 +27,15 @@ class MuhammedAhmed {
         "Notion", "GitHub", "Notebook LM"
     };
 }
-🛠️ Tech Toolbox
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,notion" />
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,notion"/>
 </p>
-📊 GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuhammedAHMED7%26show_icons%3Dtrue%26theme%3Ddark" alt="GitHub Stats" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMuhammedAHMED7%26theme%3Ddark" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedAHMED7&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAHMED7&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammedAHMED7&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
